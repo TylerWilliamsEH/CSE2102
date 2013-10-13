@@ -15,7 +15,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:checked="true"
-            android:text="Fasting Test" />
+            android:text="Fasting Test " />
 
         <RadioButton
             android:id="@+id/radio1"
